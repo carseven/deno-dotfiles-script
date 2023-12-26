@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "lint": "deno lint .",
+    "format": "deno fmt .",
+    "compile": "deno compile -A index.ts --output dotfiles-install",
+    "dev": "deno task compile && ./dotfiles-install --debug"
+  },
+  "imports": {
+    "dax": "https://deno.land/x/dax@0.31.1/mod.ts"
+  }
+}
