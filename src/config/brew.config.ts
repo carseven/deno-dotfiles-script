@@ -17,7 +17,6 @@ export const BREW_PACKAGES: string[] = [
   "wget",
   "neovim",
   "zsh",
-  "qmk/qmk/qmk",
   "koekeishiya/formulae/skhd",
   "pkgxdev/made/pkgx",
   "jq",
