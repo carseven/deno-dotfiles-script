@@ -44,9 +44,9 @@ Show info about commands launch and output of all the commands to debug problems
 
 ## TODO
 
-[] Add linux setup
-[] Add tags, been able to install only certain tasks of the script (Like ansible)
-[] Add CD of the binary SEM version
-[] Add unit test and e2e testing
-[] Add CI test to assure script launch properly on each OS and is idempotent
-[] Add help flag to show more options
+- [ ] Add linux setup
+- [ ] Add tags, been able to install only certain tasks of the script (Like ansible)
+- [ ] Add CD of the binary SEM version
+- [ ] Add unit test and e2e testing
+- [ ] Add CI test to assure script launch properly on each OS and is idempotent
+- [ ] Add help flag to show more options
