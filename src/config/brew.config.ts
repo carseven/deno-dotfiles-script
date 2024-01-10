@@ -20,6 +20,7 @@ export const BREW_PACKAGES: string[] = [
   "koekeishiya/formulae/skhd",
   "pkgxdev/made/pkgx",
   "jq",
+  "httpie",
 ];
 
 export const BREW_CASK_PACKAGES = [
