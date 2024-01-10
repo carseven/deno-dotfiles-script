@@ -6,6 +6,5 @@ export const STOW_DIRECTORIES = [
   "qmk",
   "vscode",
   "zsh",
-  "tmux",
   "nvim",
 ];

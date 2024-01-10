@@ -44,6 +44,7 @@ Show info about commands launch and output of all the commands to debug problems
 
 ## TODO
 
+- [ ] COnfig files could be un update from dotfiles repo (Maybe a config JSON o yml file?) 
 - [ ] Add linux setup
 - [ ] Add tags, been able to install only certain tasks of the script (Like ansible)
 - [ ] Add CD of the binary SEM version
