@@ -8,7 +8,6 @@ export const BREW_PACKAGES: string[] = [
   "mas",
   "neofetch",
   "nvm",
-  "deno",
   "p7zip",
   "starship",
   "stow",
@@ -21,6 +20,7 @@ export const BREW_PACKAGES: string[] = [
   "pkgxdev/made/pkgx",
   "jq",
   "httpie",
+  "mysql-client", // Install mysql client and mysqldump CLI utils
 ];
 
 export const BREW_CASK_PACKAGES = [
@@ -30,19 +30,18 @@ export const BREW_CASK_PACKAGES = [
   "brave-browser",
   "discord",
   "dozer",
-  "fig",
   "wezterm",
   "karabiner-elements",
   "mos",
   "notion",
   "raycast",
-  "runjs",
   "spotify",
   "the-unarchiver",
   "visual-studio-code",
   "dbeaver-community",
   "postman",
   "flameshot",
+  "obsidian",
 ];
 
 export const BREW_FONTS = [
